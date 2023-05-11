@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Saurav Upreti</h1>
 <h3 align="center">Passionate Python & Mobile Developer | Flutter Enthusiast</h3>
-<img align = "right" src = "https://giphy.com/gifs/GDevs-android-developer-summit-llarwdtFqG63IlqUR1">
-<img align = "left" src = "[https://giphy.com/gifs/GDevs-android-developer-summit-llarwdtFqG63IlqUR1](https://giphy.com/gifs/devrock-python-django-edr-KAq5w47R9rmTuvWOWa)">
+
 
 
 - 🔭 I’m currently working on **Flutter project**
