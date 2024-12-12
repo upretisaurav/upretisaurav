@@ -1,21 +1,29 @@
-<h1 align="center">Hi 👋, I'm Saurav Upreti</h1>
-<h3 align="center">Passionate Python & Mobile Developer | Flutter Enthusiast</h3>
+# Hi, I'm Saurav Upreti 👋
 
+I'm a passionate Flutter Developer with a keen interest in iOS, System Design, Backend, and AI. I love exploring new technologies and continuously improving my skills.
 
+### 🚀 Currently Working On / Learning
+- Flutter and iOS development
+- System Design
+- Backend Development
+- AI/ML fundamentals
 
-- 🔭 I’m currently working on **Flutter project**
+### 🛠 Tech Stack
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
+![Swift](https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=sql&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Xcode](https://img.shields.io/badge/Xcode-1575F9?style=for-the-badge&logo=xcode&logoColor=white)
 
-- 🌱 I’m currently learning **Flutter and Django**
+### 📊 GitHub Stats
+![Saurav's GitHub stats](https://github-readme-stats.vercel.app/api?username=upretisaurav&show_icons=true&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=upretisaurav&layout=compact&theme=radical)
 
-- 👯 I’m looking to collaborate on **projects that are interesting**
-
-- 📫 How to reach me **Upretisaurav7@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/saurav-upreti-a85221124" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="saurav-upreti-a85221124" height="30" width="40" /></a>
-</p>
-
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/c/c6/Dart_logo.png" alt="Dart" width="40" height="40"/> <a href="https://developer.apple.com/swift/" target="_blank" rel="noreferrer"> <img src="https://w7.pngwing.com/pngs/831/596/png-transparent-swift-apple-logo-objective-c-apple-logo-computer-programming-fruit-nut.png" alt="Dart" width="40" height="40"/> </a> </p> 
-
+### 📫 Quick Connect
+- 🌍 Location: Kathmandu, Nepal
+- 📧 Email: saurav.upreti@example.com
+- 🐦 [Twitter](https://twitter.com/yourtwitterhandle)
+- 💼 [LinkedIn](https://linkedin.com/in/yourlinkedinhandle)
