@@ -12,14 +12,14 @@ production plumbing that makes them actually work. A lot of what's on this profi
 
 ### What I'm working on
 
+- **[finduni.ai](https://finduni.ai)** — AI mock-interview practice for students facing UK and Australian
+  visa interviews: scored sessions, a credit system, and the production work around them. React, Supabase,
+  Vercel, OpenAI.
 - **[ctn-gitstashpop](https://github.com/upretisaurav/ctn-gitstashpop)** — my solo entry in UNSW's
   Capture the Narrative 2026, a research competition where AI agents compete for influence inside a sandboxed,
   simulated social network. Finished **7th of 168 teams** (47th after the first weekend). An autonomous Python
   agent on Render that writes with Claude, plus a Claude Code review loop that read its own logs and retuned it
   every four hours; the 67-entry `EXPERIMENTS.md` is the record of what worked and what didn't.
-- **[finduni.ai](https://finduni.ai)** — AI mock-interview practice for students facing UK and Australian
-  visa interviews: scored sessions, a credit system, and the production work around them. React, Supabase,
-  Vercel, OpenAI.
 - **[careerlens-mcp](https://github.com/upretisaurav/careerlens-mcp)** — an MCP server that gives Claude
   real-time career intelligence: salary benchmarks, live job listings, skill-demand analysis, and resume ATS
   scoring. Built with FastMCP + FastAPI + React.
